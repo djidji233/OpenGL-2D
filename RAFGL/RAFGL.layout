@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="include\main_state.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="333" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\main_state.c" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1696" topLine="61" />
+		</Cursor>
+		<Folding>
+			<Collapse line="135" />
+			<Collapse line="142" />
+			<Collapse line="189" />
+			<Collapse line="202" />
+			<Collapse line="277" />
+			<Collapse line="289" />
+			<Collapse line="305" />
+			<Collapse line="325" />
+			<Collapse line="375" />
+			<Collapse line="434" />
+			<Collapse line="472" />
+			<Collapse line="516" />
+			<Collapse line="547" />
+			<Collapse line="565" />
+			<Collapse line="591" />
+		</Folding>
+	</File>
+	<File name="src\glad\glad.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="501" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\game_constants.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="80" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="318" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\rafgl.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="23071" topLine="716" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
